@@ -40,3 +40,10 @@ function esExceptuada() {
       document.body.appendChild(newDiv2);
     }
 }
+
+/*function laClaveSecreta (clave){
+let nuevaClave = clave.reverse ();
+nuevaClave = nuevaClave.filter (i => i !== "*");
+return nuevaClave.join ('');
+}
+*/

@@ -1,0 +1,44 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  background-color: #d9d9d9;
+  font-family: Calibri, "Arial", "Helvetica", "Open Sans", "Helvetica Neue",
+    sans-serif;
+}
+
+#input {
+  width: 100%;
+  background-color: #f2f2f2;
+  margin: auto;
+}
+input {
+  border-radius: 5px;
+  padding: 5px;
+  margin-left: 220px;
+  margin-right: 220px;
+}
+button {
+  border-radius: 5px;
+  margin: -100px;
+  padding: 5px;
+  cursor: pointer;
+}
+.div-styled {
+  border: solid;
+  border-radius: 5px;
+  margin: 200px;
+  padding: 10px;
+}
+.div-styled2 {
+  border: solid;
+  border-radius: 5px;
+  margin: 200px;
+  padding: 10px;
+}
+.clearbutton {
+  margin-top: 0;
+  margin-left: 100px;
+}
